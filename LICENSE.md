@@ -1,4 +1,4 @@
-# 
+# Open Source YNAB plugins for Mac OS | Turbo YNAB plugins for PC Windows. Featuring mileage tracking and mobile apps — optimized for maximum performance on every platform.
 
 
 
